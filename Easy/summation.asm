@@ -1,6 +1,6 @@
 
 
-;; Pseudocode (see PDF for explanation)
+;; Pseudocode 
 ;;
 ;;    int result; (to save the summation of x)
 ;;       store in Register

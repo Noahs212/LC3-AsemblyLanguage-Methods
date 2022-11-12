@@ -1,6 +1,6 @@
 
 
-;; Pseudocode (see PDF for explanation)
+;; Pseudocode 
 ;;
 ;;	int A[] = {1,2,3};
 ;;	int B[] = {-1, 7, 8};

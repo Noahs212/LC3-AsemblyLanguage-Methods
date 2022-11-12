@@ -1,6 +1,6 @@
 
 
-;; Pseudocode (see PDF for explanation)
+;; Pseudocode
 ;;
 ;; int count = 0;
 ;; int chars = 0;

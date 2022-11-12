@@ -1,6 +1,6 @@
 
 
-;; Pseudocode (see PDF for explanation)
+;; Pseudocode 
 ;;
 ;;    int result = x4000; (given memory address to save the converted value)
 ;;    String binaryString= "01000000"; (given binary string)
