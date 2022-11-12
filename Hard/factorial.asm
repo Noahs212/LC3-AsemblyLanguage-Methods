@@ -1,13 +1,4 @@
-;;=============================================================
-;; Name: Noah Statton
-;;============================================================
 
-;; In this file, you must implement the 'factorial' and "mult" subroutines.
-
-;; Little reminder from your friendly neighborhood 2110 TA staff: don't run
-;; this directly by pressing 'RUN' in complx, since there is nothing put at
-;; address x3000. Instead, load it and use 'Debug' -> 'Simulate
-;; Subroutine Call' and choose the 'factorial' or 'mult' label.
 
 ;; Pseudocode
 
